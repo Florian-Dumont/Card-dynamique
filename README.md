@@ -2,4 +2,4 @@
 
 End of training module exercise
 
-![](giphy.gif)
+![](giphy.mp4)
